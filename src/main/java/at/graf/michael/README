@@ -1,0 +1,11 @@
+--- Major Scale Master ---
+
+This Java tool calculates the full Major Scale and its Diatonic Chords from any given root note.
+
+How it works:
+    - Input: Enter any note (e.g., C, F#, Ab).
+    - Scale: Calculates the 7 notes based on the W-W-H-W-W-W-H pattern.
+    - Chords: Maps each note to its correct chord quality (Major, Minor, or Diminished).
+
+TODO:
+ - Calculate secondary dominants
